@@ -15,9 +15,7 @@ int main() {
        sum=sum*10+b;
    }
    
-   
-   
-   if(sum==c){
+if(sum==c){
        printf("\nEntered number is A Palindrome Number");
    }
    else{
