@@ -12,8 +12,8 @@ int main() {
    printf(" the sum of the digits in the entered number is : ");
    
    while(a>=1){
-       b=a%10;
-       a=a/10;
+       b=a%8;
+       a=a/8;
        
        sum=sum+b;
    }
